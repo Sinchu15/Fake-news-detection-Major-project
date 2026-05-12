@@ -17,9 +17,9 @@ Fake News Detection System is a Machine Learning based web application that dete
 - HTML/CSS
 
 ## Dataset
-- Fake.csv
-- True.csv
-- fake_news.csv
+The dataset is large and cannot uploaded to Github
+Access it here:
+https://drive.google.com/file/d/1KDA_4KLC-qgGcU4NuhHYZLb4E9-qJl5r/view?usp=drive_link
 
 ## How to Run
 
